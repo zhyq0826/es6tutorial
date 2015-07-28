@@ -1,4 +1,4 @@
-# [ECMAScript 6 入门](.md)
+# [ECMAScript 6 入门]
 
 
 * [author](author.md)
